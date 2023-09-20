@@ -1,0 +1,40 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "@babel/core": "^7.21.0",
+        "@babel/eslint-parser": "^7.19.1",
+        "@babel/plugin-proposal-class-properties": "^7.18.6",
+        "@babel/plugin-proposal-decorators": "^7.21.0",
+        "@inertiajs/inertia": "^0.11.1",
+        "@inertiajs/inertia-vue3": "^0.6.0",
+        "@inertiajs/progress": "^0.2.7",
+        "@inertiajs/vue3": "^1.0.2",
+        "@mdi/js": "^7.2.96",
+        "@mdit-vue/plugin-title": "^0.12.0",
+        "@vitejs/plugin-vue": "^4.0.0",
+        "eslint": "^8.35.0",
+        "eslint-plugin-vue": "^9.9.0",
+        "i18next": "^21.10.0",
+        "laravel-vite-plugin": "^0.7.2",
+        "npm-watch": "^0.11.0",
+        "resolve-url-loader": "^5.0.0",
+        "sass": "^1.58.3",
+        "sass-loader": "^12.6.0",
+        "sweetalert2": "^11.6.13",
+        "vite": "^4.0.0",
+        "vite-plugin-vuetify": "^1.0.2",
+        "vue": "^3.2.36",
+        "vue-axios": "^3.5.2",
+        "vue-class-component": "^8.0.0-rc.1",
+        "vue-echarts": "^6.5.4",
+        "vue-i18n": "^9.2.2",
+        "vuetify": "^3.1.8",
+        "vuex": "^4.1.0",
+        "webpack-plugin-vuetify": "^2.0.1"
+    }
+}
